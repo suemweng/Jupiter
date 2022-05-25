@@ -1,7 +1,11 @@
+/Users/sueweng/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/dao/FavoriteDao.java
 /Users/sueweng/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/entity/response/Game.java
 /Users/sueweng/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/entity/db/Item.java
+/Users/sueweng/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/service/FavoriteService.java
+/Users/sueweng/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/entity/request/FavoriteRequestBody.java
 /Users/sueweng/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/controller/SearchController.java
 /Users/sueweng/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/entity/response/LoginResponseBody.java
+/Users/sueweng/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/controller/FavoriteController.java
 /Users/sueweng/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/service/RegisterService.java
 /Users/sueweng/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/service/TwitchException.java
 /Users/sueweng/IdeaProjects/jupiter/src/main/java/com/laioffer/jupiter/service/GameService.java

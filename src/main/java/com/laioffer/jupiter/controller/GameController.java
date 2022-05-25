@@ -36,6 +36,7 @@ public class GameController {
         try {
             // Return the dedicated game information if gameName is provided in the request URL,
             // otherwise return the top x games.
+            // unknown return type, so return void and set up response in code
             if (gameName != null) {
                 response.getWriter().print(new ObjectMapper().writeValueAsString(gameService.searchGame(gameName)));
             } else {
